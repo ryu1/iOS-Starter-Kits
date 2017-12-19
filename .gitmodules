@@ -4,3 +4,6 @@
 [submodule "HackathonStarter"]
 	path = HackathonStarter
 	url = https://github.com/tattn/HackathonStarter
+[submodule "iOS-mvp-sample"]
+	path = iOS-mvp-sample
+	url = https://github.com/iyadagha/iOS-mvp-sample
