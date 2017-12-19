@@ -19,3 +19,6 @@
 [submodule "clean-swift-templates"]
 	path = clean-swift-templates
 	url = https://github.com/HelmMobile/clean-swift-templates.git
+[submodule "ios-architectures"]
+	path = ios-architectures
+	url = https://github.com/tattn/ios-architectures.git
