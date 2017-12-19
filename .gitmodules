@@ -22,3 +22,6 @@
 [submodule "ios-architectures"]
 	path = ios-architectures
 	url = https://github.com/tattn/ios-architectures.git
+[submodule "ios-mvp-clean-architecture"]
+	path = ios-mvp-clean-architecture
+	url = https://github.com/FortechRomania/ios-mvp-clean-architecture
