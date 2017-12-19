@@ -25,3 +25,6 @@
 [submodule "ios-mvp-clean-architecture"]
 	path = ios-mvp-clean-architecture
 	url = https://github.com/FortechRomania/ios-mvp-clean-architecture
+[submodule "Model-View-Presenter"]
+	path = Model-View-Presenter
+	url = https://github.com/albertojauregui/Model-View-Presenter.git
