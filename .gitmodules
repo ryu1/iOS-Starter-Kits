@@ -7,3 +7,6 @@
 [submodule "iOS-mvp-sample"]
 	path = iOS-mvp-sample
 	url = https://github.com/iyadagha/iOS-mvp-sample
+[submodule "CleanArchitectureRxSwift"]
+	path = CleanArchitectureRxSwift
+	url = https://github.com/sergdort/CleanArchitectureRxSwift.git
