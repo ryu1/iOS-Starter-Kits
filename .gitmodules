@@ -13,3 +13,6 @@
 [submodule "Archit-iOS"]
 	path = Archit-iOS
 	url = https://github.com/intelygenz/Archit-iOS.git
+[submodule "currency-converter-swift3.0-viper"]
+	path = currency-converter-swift3.0-viper
+	url = https://github.com/tirupati17/currency-converter-swift3.0-viper.git
