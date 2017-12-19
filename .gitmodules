@@ -10,3 +10,6 @@
 [submodule "CleanArchitectureRxSwift"]
 	path = CleanArchitectureRxSwift
 	url = https://github.com/sergdort/CleanArchitectureRxSwift.git
+[submodule "Archit-iOS"]
+	path = Archit-iOS
+	url = https://github.com/intelygenz/Archit-iOS.git
