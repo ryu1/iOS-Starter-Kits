@@ -1,3 +1,6 @@
 [submodule "iOS-Awesome-Starter-Kit"]
 	path = iOS-Awesome-Starter-Kit
 	url = https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit.git
+[submodule "HackathonStarter"]
+	path = HackathonStarter
+	url = https://github.com/tattn/HackathonStarter
