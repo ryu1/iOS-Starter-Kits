@@ -28,3 +28,6 @@
 [submodule "Model-View-Presenter"]
 	path = Model-View-Presenter
 	url = https://github.com/albertojauregui/Model-View-Presenter.git
+[submodule "emplesSwift"]
+	path = emplesSwift
+	url = https://github.com/vascome/emplesSwift.git
