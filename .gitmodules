@@ -31,3 +31,9 @@
 [submodule "emplesSwift"]
 	path = emplesSwift
 	url = https://github.com/vascome/emplesSwift.git
+[submodule "SwinjectSimpleExample"]
+	path = SwinjectSimpleExample
+	url = https://github.com/Swinject/SwinjectSimpleExample
+[submodule "SwinjectMVVMExample"]
+	path = SwinjectMVVMExample
+	url = https://github.com/Swinject/SwinjectMVVMExample
