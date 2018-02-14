@@ -43,3 +43,6 @@
 [submodule "CleanStore"]
 	path = CleanStore
 	url = https://github.com/Clean-Swift/CleanStore
+[submodule "Spike-Swift-MyArchitecture"]
+	path = Spike-Swift-MyArchitecture
+	url = https://github.com/ko2ic/Spike-Swift-MyArchitecture.git
