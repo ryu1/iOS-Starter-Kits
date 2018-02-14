@@ -40,3 +40,6 @@
 [submodule "RxSwiftCleanArchitecture"]
 	path = RxSwiftCleanArchitecture
 	url = https://github.com/kirou/RxSwiftCleanArchitecture.git
+[submodule "CleanStore"]
+	path = CleanStore
+	url = https://github.com/Clean-Swift/CleanStore
