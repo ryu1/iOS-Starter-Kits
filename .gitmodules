@@ -37,3 +37,6 @@
 [submodule "SwinjectMVVMExample"]
 	path = SwinjectMVVMExample
 	url = https://github.com/Swinject/SwinjectMVVMExample
+[submodule "RxSwiftCleanArchitecture"]
+	path = RxSwiftCleanArchitecture
+	url = https://github.com/kirou/RxSwiftCleanArchitecture.git
