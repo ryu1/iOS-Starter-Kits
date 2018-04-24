@@ -49,3 +49,6 @@
 [submodule "EmotionNote"]
 	path = EmotionNote
 	url = https://github.com/dobnezmi/EmotionNote.git
+[submodule "iOS-Viper-Architecture"]
+	path = iOS-Viper-Architecture
+	url = https://github.com/MindorksOpenSource/iOS-Viper-Architecture.git
