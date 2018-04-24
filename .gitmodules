@@ -46,3 +46,6 @@
 [submodule "Spike-Swift-MyArchitecture"]
 	path = Spike-Swift-MyArchitecture
 	url = https://github.com/ko2ic/Spike-Swift-MyArchitecture.git
+[submodule "EmotionNote"]
+	path = EmotionNote
+	url = https://github.com/dobnezmi/EmotionNote.git
